@@ -88,7 +88,8 @@
   
 
 ## 💡 2. ERD
-![게시판 (2)](https://github.com/kny5579/board/assets/95288763/0d239276-106b-4207-bccb-c6f6f0e2fe09)
+![게시판 (3)](https://github.com/kny5579/board/assets/95288763/b029553c-e630-4ca6-9361-072e549e5b55)
+
 
 
 <br/>
