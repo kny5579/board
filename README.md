@@ -88,7 +88,8 @@
   
 
 ## 💡 2. ERD
-![게시판](https://github.com/kny5579/board/assets/95288763/add6891e-f60b-4bea-8218-86e382621cf2)  
+![게시판 (1)](https://github.com/kny5579/board/assets/95288763/d9d09223-142d-4aba-b703-9f0fab8f8a4e)
+
 <br/>
 
 ## 💡 3. 사용 기술
